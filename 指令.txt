@@ -1,0 +1,5 @@
+#輸入--coordinate 緯度,精度
+python3 single_inference.py --coordinate 22.6408282,120.3222442 --location Taiwan_Kaohsiung
+python3 single_inference.py --coordinate 40.440309,-80.0 --location USA_Pittsburgh
+python3 single_inference.py --coordinate 28.541323,-81.380703 --location USA_Orlando
+python3 single_inference.py --coordinate 40.73055,-74.001715 --location USA_NewYork
